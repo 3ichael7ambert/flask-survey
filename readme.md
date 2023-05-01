@@ -1,4 +1,11 @@
+In this repository, we have a Survey Exercise in Flask
 
+We go deeper in using mulitple pages and variables to create a survey form.
+
+
+
+
+Below are Notes for Running in Terminal
 ###########
 Terminal Usage
 ##########
